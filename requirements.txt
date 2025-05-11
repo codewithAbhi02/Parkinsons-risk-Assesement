@@ -1,3 +1,10 @@
-fastapi
-uvicorn[standard]
-xlwings
+streamlit
+numpy
+pandas
+wave
+av
+streamlit-webrtc
+folium
+streamlit-folium
+fpdf
+smtplib
