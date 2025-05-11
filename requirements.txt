@@ -1,10 +1,7 @@
 streamlit
+streamlit-webrtc
+av
 numpy
 pandas
-wave
-av
-streamlit-webrtc
 folium
-streamlit-folium
-fpdf
-smtplib
+wave
