@@ -7,3 +7,4 @@ folium
 wave
 streamlit_folium
 FPDF
+openpyxl
