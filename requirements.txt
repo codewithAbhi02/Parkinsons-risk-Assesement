@@ -6,3 +6,4 @@ pandas
 folium
 wave
 streamlit_folium
+FPDF
